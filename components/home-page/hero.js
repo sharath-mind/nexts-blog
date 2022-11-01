@@ -13,7 +13,7 @@ const Hero = () => {
         />
       </div>
       <h1>Hi, I&#39;m Sharath</h1>
-      <p>I&#39;m a piece of shit.</p>
+      <p>This blog site is built on NextJs.</p>
     </section>
   );
 };
