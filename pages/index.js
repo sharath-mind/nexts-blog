@@ -6,7 +6,7 @@ const HomePage = (props) => {
   return (
     <>
     <Head>
-      <title>Sharath&#39;s shit</title>
+      <title>Sharath&#39;s blog page</title>
       <meta name="description" content="No content" />
     </Head>
       <Hero />
